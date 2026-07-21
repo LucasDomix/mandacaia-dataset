@@ -116,7 +116,7 @@ registradas por imagem no manifesto.
 
 Para citar o codigo e o manifesto, use o DOI arquivado no Zenodo:
 
-> CORDEIRO, Lucas Dominguez. *mandacaia-dataset*: pipeline de composicao, curadoria
+> DOMINGUEZ CORDEIRO, Lucas. *mandacaia-dataset*: pipeline de composicao, curadoria
 > e validacao do dataset anotado de *Melipona quadrifasciata*. Versao v1.0.0.
 > Zenodo, 2026. DOI: 10.5281/zenodo.21475933.
 

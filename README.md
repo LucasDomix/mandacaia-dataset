@@ -122,7 +122,7 @@ Para citar o codigo e o manifesto, use o DOI arquivado no Zenodo:
 
 ```bibtex
 @software{cordeiro2026codigo,
-  author    = {Cordeiro, Lucas Dominguez},
+  author    = {{Dominguez Cordeiro}, Lucas},
   title     = {mandacaia-dataset: pipeline de composicao, curadoria e validacao
                do dataset anotado de Melipona quadrifasciata},
   year      = {2026},

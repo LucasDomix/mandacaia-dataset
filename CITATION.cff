@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se voce utilizar este material, por favor cite conforme abaixo."
+title: "Conjunto de imagens anotadas de Melipona quadrifasciata (mandacaia) para deteccao de objetos: codigo, manifesto e validacao"
+abstract: "Codigo, manifesto e caderno de validacao do dataset anotado de Melipona quadrifasciata (mandacaia) para deteccao de objetos."
+type: software
+authors:
+  - family-names: "Dominguez Cordeiro"
+    given-names: "Lucas"
+    affiliation: "Universidade Tecnologica Federal do Parana (UTFPR)"
+    orcid: "https://orcid.org/0009-0000-4511-7569"
+version: v1.0.0
+date-released: 2026-07-21
+license: MIT
+doi: 10.5281/zenodo.21475933
+repository-code: "https://github.com/LucasDomix/mandacaia-dataset"
+keywords:
+  - Melipona quadrifasciata
+  - abelhas sem ferrao
+  - deteccao de objetos
+  - YOLO
+  - dataset anotado

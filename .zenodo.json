@@ -1,0 +1,23 @@
+{
+  "title": "Conjunto de imagens anotadas de Melipona quadrifasciata (mandacaia) para deteccao de objetos: codigo, manifesto e validacao",
+  "description": "Codigo do pipeline de composicao e curadoria, manifesto com uma linha por imagem e caderno de treinamento e avaliacao (YOLO11s) do conjunto de imagens anotadas de Melipona quadrifasciata (mandacaia). As imagens estao publicadas no Roboflow Universe; este deposito reune o codigo, o manifesto e a validacao. Produzido no Programa de Pos-Graduacao em Informatica da UTFPR, Campus Cornelio Procopio.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Dominguez Cordeiro, Lucas",
+      "affiliation": "Universidade Tecnologica Federal do Parana (UTFPR)",
+      "orcid": "0009-0000-4511-7569"
+    }
+  ],
+  "keywords": [
+    "Melipona quadrifasciata",
+    "abelhas sem ferrao",
+    "meliponicultura",
+    "deteccao de objetos",
+    "YOLO",
+    "dataset anotado",
+    "visao computacional"
+  ],
+  "language": "por"
+}

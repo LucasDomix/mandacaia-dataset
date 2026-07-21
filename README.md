@@ -1,5 +1,7 @@
 # Dataset anotado de *Melipona quadrifasciata* para deteccao de objetos
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21475933.svg)](https://doi.org/10.5281/zenodo.21475933)
+
 Codigo, manifesto e caderno de validacao que acompanham a dissertacao
 **"Dataset Anotado de Melipona Quadrifasciata para Deteccao de Objetos:
 composicao, curadoria e validacao"** (PPGI, UTFPR Campus Cornelio Procopio).
@@ -112,4 +114,24 @@ registradas por imagem no manifesto.
 
 ## Como citar
 
-A referencia definitiva sera acrescentada apos o deposito da dissertacao.
+Para citar o codigo e o manifesto, use o DOI arquivado no Zenodo:
+
+> CORDEIRO, Lucas Dominguez. *mandacaia-dataset*: pipeline de composicao, curadoria
+> e validacao do dataset anotado de *Melipona quadrifasciata*. Versao v1.0.0.
+> Zenodo, 2026. DOI: 10.5281/zenodo.21475933.
+
+```bibtex
+@software{cordeiro2026codigo,
+  author    = {Cordeiro, Lucas Dominguez},
+  title     = {mandacaia-dataset: pipeline de composicao, curadoria e validacao
+               do dataset anotado de Melipona quadrifasciata},
+  year      = {2026},
+  version   = {v1.0.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21475933},
+  url       = {https://doi.org/10.5281/zenodo.21475933}
+}
+```
+
+Para citar o dataset, use a pagina da versao 5 no Roboflow Universe indicada na
+secao Dataset. A referencia da dissertacao sera acrescentada apos o deposito.

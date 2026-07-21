@@ -108,9 +108,7 @@ e nao uma biblioteca de uso geral.
 
 ## Licenca
 
-Codigo sob licenca MIT. O dataset e distribuido sob CC BY-NC-SA 4.0. As imagens
-do iNaturalist mantem as licencas Creative Commons originais de cada autor,
-registradas por imagem no manifesto.
+Codigo sob licenca MIT. O conjunto e distribuido como colecao: cada imagem preserva sua licenca CC original, registrada no manifesto; a licenca CC BY-NC-SA 4.0 recai sobre anotacoes e organizacao. As imagens do iNaturalist mantem as licencas Creative Commons originais de cada autor,registradas por imagem no manifesto.
 
 ## Como citar
 
